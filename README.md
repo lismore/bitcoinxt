@@ -22,7 +22,7 @@ Currently plans for following additional changes:
 11. MIT203 - Native Trading Gateway Interfacing options : http://www.londonstockexchange.com/products-and-services/millennium-exchange/millennium-exchange-migration/mit203issuev11-1.pdf
 12. NYSE UTPDirect Protocol : https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSEUTPDirect_Specification.pdf
 13. SIEM Endpoints 
-14. Regulatory Compliance Option for Financial Services Firms ensuring any FS companies buying, selling or trading bitcoin via Bitcoin FS client do so in compliance with their companies regulatory committments.  This is a client side feature that will not affect the blockchain or existing bitcoin users.
+14. Regulatory Compliance Option for Financial Services Firms ensuring any FS companies buying, selling or trading bitcoin via Bitcoin FS client do so in compliance with their companies regulatory commitments.  This is a client side feature that will not affect the blockchain or existing bitcoin users.
 15. Digital Forensics enhancing capabilites for Bitcoin FS clients
 16. Biometric authentication
 
