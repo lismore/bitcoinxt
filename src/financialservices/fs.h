@@ -4,5 +4,4 @@ public:
   void isCompliant();
   void isAmlCompliant();
   void isKycCompliant();
-  int bar;
 };
